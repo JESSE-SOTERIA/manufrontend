@@ -5,7 +5,7 @@ export default function Home() {
     <main className="bg-customLight h-screen text-sm">
       <Herosection></Herosection>
       <section className="h-screen bg-customNeutral"></section>
-      <section className="h-screen bg-customNeutral"></section>
+      <section className="h-screen bg-customLight"></section>
       <section className="h-screen bg-customNeutral"></section>
     </main>
   );
